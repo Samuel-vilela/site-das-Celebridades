@@ -1,0 +1,38 @@
+h1{
+    color: rgb(0, 0, 0);
+    font-family: 'Pixelify Sans', sans-serif;
+}
+
+hr{
+    color: #000000;
+}
+
+img{
+
+    width: 200px;
+    border-radius: 10ch;
+    border-color: gold
+} 
+
+body{
+    background-image: url(pexels-pixabay-235985.jpg);
+    background-size: cover;
+    border-top-color: rgb(226, 110, 43);
+    font-family: 'Poppins', sans-serif;
+}
+
+a{
+    color: aliceblue;
+    border: 100px;
+} 
+
+button{
+    color: chocolate;
+    padding: 8px 22px;
+    border-radius: 6px;
+    background: #000000;
+    transition: all 0.2s ease;
+
+} 
+
+
